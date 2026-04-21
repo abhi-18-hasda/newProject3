@@ -1,4 +1,4 @@
-package learning.practices.src.logicpatterns.structuralpattern.decoratorpattern;
+package learning.practices.src.logicpatterns.structuralpattern.decoratorpattern.deliverysystem;
 
 public class FastDeliveryDecore extends OrderDecore {
 

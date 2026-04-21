@@ -20,7 +20,7 @@ public class findPermutation {
 	}
 
 	public static void main(String args[]) {
-		String str = "abb";
+		String str = "abc";
 		String ans = "";
 		Set<String> val = new HashSet<String>();
 		findPer(str, ans, val);
